@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-bookmark-maker\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-04-16 20:30+0200\n"
+"Last-Translator: Tzafrir Rehan <tzafrir@tzafrir.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: /usr/staff/sup/wp-bookmark-maker/\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-bookmark-maker.php:15
+msgid "Bookmark generator"
+msgstr "ייצור סימניות"
+
+#: wp-bookmark-maker.php:15
+msgid "Wordpress Bookmark Maker"
+msgstr "יצרן סימניות לוורדפרס"
+
+#: wp-bookmark-maker.php:23
+msgid "Click to download a bookmark folder"
+msgstr "להורדת תיקיית סימניות"
+
+#: wp-bookmark-maker.php:24
+msgid "Import the above file using the Import... function in Firefox's Organize Bookmarks menu."
+msgstr "ניתן לייבא את הקובץ הנ\"ל לFirefox באמצעות אפשרות ייבוא בתפריט ניהול הסימניות."
+
+#: wp-bookmark-maker.php:24
+msgid "<a href=\"http://mozilla.gunnars.net/firefox_bookmarks_tutorial.html#importing_and_exporting_bookmarks\">More help here.</a>"
+msgstr "<a href=\"http://mozilla.gunnars.net/firefox_bookmarks_tutorial.html#importing_and_exporting_bookmarks\">עזרה נוספת כאן.</a>"
+
+#: wp-bookmark-maker.php:134
+msgid "WordPress admin Dashboard"
+msgstr "לוח בקרה של וורדפרס"
+

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-bookmark-folder-"
+"generator\n"
+"POT-Creation-Date: 2008-09-12 11:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-bookmark-maker.php:35
+msgid "Bookmark generator"
+msgstr ""
+
+#: wp-bookmark-maker.php:36
+msgid "Wordpress Bookmark Maker"
+msgstr ""
+
+#: wp-bookmark-maker.php:45
+msgid "Click to download a bookmark folder"
+msgstr ""
+
+#: wp-bookmark-maker.php:46
+msgid ""
+"Import the above file using the Import... function in Firefox's Organize "
+"Bookmarks menu."
+msgstr ""
+
+#: wp-bookmark-maker.php:46
+msgid ""
+"<a href=\"http://mozilla.gunnars.net/firefox_bookmarks_tutorial."
+"html#importing_and_exporting_bookmarks\">More help here.</a>"
+msgstr ""
+
+#: wp-bookmark-maker.php:63
+msgid "Write"
+msgstr ""
+
+#: wp-bookmark-maker.php:66
+msgid "Manage"
+msgstr ""
+
+#: wp-bookmark-maker.php:156
+msgid "WordPress admin Dashboard"
+msgstr ""
